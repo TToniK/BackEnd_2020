@@ -3,11 +3,18 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using BankTest.Data;
 
 namespace BankTest.Repositories
 {
     public class Bankrepository : IBankrepository
     {
+        private readonly BankdbContext _bankdbContext;
+
+        public Bankrepository(BankdbContext bankdbContext)
+        {
+            _bankdbContext = bankdbContext;
+        }
         public Bank Create(Bank bank)
         {
             throw new NotImplementedException();
@@ -20,7 +27,8 @@ namespace BankTest.Repositories
 
         public List<Bank> Read()
         {
-            throw new NotImplementedException();
+            var banks = _bankdbContext.Bank.ToList();
+            return banks;
         }
 
         public Bank Read(int id)

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karit\\source\\repos\\BankTest\\BankTest\\BankTest.csproj": {}
+    "C:\\Users\\karit\\source\\BackEnd_2020\\BankTest\\BankTest\\BankTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karit\\source\\repos\\BankTest\\BankTest\\BankTest.csproj": {
+    "C:\\Users\\karit\\source\\BackEnd_2020\\BankTest\\BankTest\\BankTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karit\\source\\repos\\BankTest\\BankTest\\BankTest.csproj",
+        "projectUniqueName": "C:\\Users\\karit\\source\\BackEnd_2020\\BankTest\\BankTest\\BankTest.csproj",
         "projectName": "BankTest",
-        "projectPath": "C:\\Users\\karit\\source\\repos\\BankTest\\BankTest\\BankTest.csproj",
+        "projectPath": "C:\\Users\\karit\\source\\BackEnd_2020\\BankTest\\BankTest\\BankTest.csproj",
         "packagesPath": "C:\\Users\\karit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karit\\source\\repos\\BankTest\\BankTest\\obj\\",
+        "outputPath": "C:\\Users\\karit\\source\\BackEnd_2020\\BankTest\\BankTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

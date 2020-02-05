@@ -1,4 +1,5 @@
 ﻿using BankTest.Models;
+using BankTest.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,6 +9,13 @@ namespace BankTest.Services.BankService
 {
     public class Bankservice : IBankservice
     {
+        private readonly IBankrepository _bankrepository;
+        private IBankrepository bankrepository;
+
+        public Bankservice(IBankrepository _bankrepository)
+        {
+            _bankrepository = bankrepository;
+        }
         public Bank Create(Bank bank)
         {
             throw new NotImplementedException();

@@ -7,7 +7,7 @@ using BankTest.Repositories;
 
 namespace BankTest.Services
 {
-    interface IBankservice
+    public interface IBankservice
     {
         Bank Create(Bank bank);
 
