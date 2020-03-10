@@ -1,0 +1,11 @@
+C:\Users\karit\source\BackEnd_2020\Rates-App\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\karit\source\BackEnd_2020\Rates-App\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\karit\source\BackEnd_2020\Rates-App\bin\Debug\netcoreapp3.1\efpt.config.json
+C:\Users\karit\source\BackEnd_2020\Rates-App\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\karit\source\BackEnd_2020\Rates-App\bin\Debug\netcoreapp3.1\Rates-App.exe
+C:\Users\karit\source\BackEnd_2020\Rates-App\obj\Debug\netcoreapp3.1\Rates-App.csprojAssemblyReference.cache
+C:\Users\karit\source\BackEnd_2020\Rates-App\obj\Debug\netcoreapp3.1\staticwebassets\Rates-App.StaticWebAssets.Manifest.cache
+C:\Users\karit\source\BackEnd_2020\Rates-App\obj\Debug\netcoreapp3.1\staticwebassets\Rates-App.StaticWebAssets.xml
+C:\Users\karit\source\BackEnd_2020\Rates-App\obj\Debug\netcoreapp3.1\Rates-App.AssemblyInfoInputs.cache
+C:\Users\karit\source\BackEnd_2020\Rates-App\obj\Debug\netcoreapp3.1\Rates-App.AssemblyInfo.cs
+C:\Users\karit\source\BackEnd_2020\Rates-App\obj\Debug\netcoreapp3.1\Rates-App.RazorTargetAssemblyInfo.cache
